@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Samples
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/ENGIE.CC/.vs/VSWorkspaceState.json
+/ENGIE.CC/.vs/slnx.sqlite
+/ENGIE.CC/.vs/ProjectEvaluation
+/ENGIE.CC/.vs/ENGIE.CC/v17
+/ENGIE.CC/.vs/ENGIE.CC/FileContentIndex
+/ENGIE.CC/.vs/ENGIE.CC/DesignTimeBuild
+/ENGIE.CC/.vs/ENGIE.CC/config
+/ENGIE.CC/ENGIE.CC.RESTAPI/bin/Debug/net6.0
+/ENGIE.CC/ENGIE.CC.RESTAPI/obj
