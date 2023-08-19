@@ -1,20 +1,20 @@
-#powerplant-coding-challenge
-#author : Khalid AGOUDDAR
+# powerplant-coding-challenge
+## author : Khalid AGOUDDAR
 
 
 The project REST API allows you to generate production plans for energy. By making a POST request to the /productionplan route, you can receive a production plan based on the input data provided. 
 
-#Base URL : http://localhost:8888
+## Base URL : http://localhost:8888
 
-#Authentication
+## Authentication
 No authentication is currently required to access this API.
 
 
-#Endpoint
+## Endpoints
 Generate Production Plan
 Endpoint: POST /productionplan
 
-Request
+## Request
 Send a POST request to this endpoint to generate a production plan based on the input payload. The input payload should be a JSON object with the required parameters for production plan :
 {
   "load": /* desired LOAD*/,
@@ -36,7 +36,7 @@ Send a POST request to this endpoint to generate a production plan based on the 
   ]
 }
 
-#Response 
+## Response 
 
 [
     {
